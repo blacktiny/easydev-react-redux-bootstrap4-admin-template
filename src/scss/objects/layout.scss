@@ -1,0 +1,56 @@
+.container {
+
+  @media screen and (min-width: 768px) {
+    width: 100%;
+    max-width: 1630px;
+  }
+}
+
+.container__wrap {
+  @include directify($directions) {
+    #{directed('padding-left')}: 0px;
+  }
+  padding-top: 90px;
+  min-height: 100vh;
+  transition: padding-left 0.3s;
+
+  @include themify($themes) {
+    background: themed('colorBackgroundBody');
+  }
+
+  @media screen and (min-width: 576px) {
+    @include directify($directions) {
+      #{directed('padding-left')}: 250px;
+    }
+  }
+}
+
+.layout {
+
+  &.layout--collapse {
+
+    & + .container__wrap {
+      @include directify($directions) {
+        #{directed('padding-left')}: 0px;
+      }
+
+      @media screen and (min-width: 576px) {
+        @include directify($directions) {
+          #{directed('padding-left')}: 60px;
+        }
+      }
+    }
+  }
+
+  &.layout--top-navigation{
+
+    & + .container__wrap{
+
+      @media screen and (min-width: 576px) {
+        @include directify($directions) {
+          #{directed('padding-left')}: 0px;
+        }
+      }
+    }
+  }
+}

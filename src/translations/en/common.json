@@ -1,0 +1,455 @@
+{
+  "dashboard_default": {
+    "page_title": "Dashboard Default",
+    "visits":  "Visits",
+    "total_page_views":  "Total page views",
+    "new_users":  "New users",
+    "bounce_rate":  "Bounce rate",
+    "ab_testing":  "A/B testing analytics",
+    "visitors_sessions":  "Visitor sessions",
+    "sales_statistic":  "Sales statistic",
+    "budget_statistic":  "Budget statistic",
+    "audience_by_country":  "Audience by country",
+    "best_selling":  "Best selling regions",
+    "goals_completion":  "Goal completion"
+  },
+  "dashboard_commerce": {
+    "page_title": "Dashboard E-commerce",
+    "total_products": "Total products",
+    "total_profit": "Total profit",
+    "orders_today": "Orders today",
+    "subscriptions": "Subscriptions",
+    "product_sales": "Product sales",
+    "new_orders": "New orders",
+    "my_todos": "My todos",
+    "sales_statistic": "Sales statistic",
+    "sales_report": "Sales report",
+    "emails": "Emails",
+    "short_reminders": "Short reminders",
+    "top_selling_products": "Top selling products",
+    "basic_card": "Basic card",
+    "recent_orders": "Recent orders"
+  },
+  "dashboard_fitness": {
+    "page_title": "Dashboard Fitness",
+    "heartrate": "Heartrate",
+    "calories_burn": "Calories burn",
+    "steps": "Steps",
+    "distance": "Distance",
+    "activity_chart": "Activity chart",
+    "today_running_map": "Today running map",
+    "my_competitors": "My competitors",
+    "fat_burning": "Fat burning",
+    "activity_rating": "Activity rating"
+  },
+  "dashboard_crypto": {
+    "page_title": "Dashboard Crypto",
+    "trade_history": "Trade history",
+    "cryptotrends_today": "Cryptotrends today",
+    "place_order": "Place order",
+    "top_cryptocurrencies": "Top 10 cryptocurrencies"
+  },
+  "dashboard_mobile_app": {
+    "page_title": "Dashboard Mobile App",
+    "current_users": "Current Users",
+    "active_users": "Active Users",
+    "widget_sessions": "Sessions",
+    "widget_active_users": "Active Users",
+    "widget_new_users": "New Users",
+    "widget_pageviews": "Pageviews",
+    "app_tile_clicks": "App Tile Clicks",
+    "weekly_stat_mobile": "Weekly Stat",
+    "social_marketing_mobile": "Social Marketing"
+  },
+  "dashboard_booking": {
+    "page_title": "Booking dashboard",
+    "reservations": "Reservations",
+    "weekly_stat": "Weekly stat",
+    "social_score": "Social score",
+    "occupancy": "Occupancy"
+  },
+  "layout": {
+    "page_title": "Layout",
+    "light_theme": "Light Theme",
+    "dark_theme": "Dark Theme"
+  },
+  "ui_elements": {
+    "title": "UI elements",
+    "alerts": {
+      "title": "Alerts",
+      "basic_alerts": "Basic alerts",
+      "bordered_alerts_with_icons": "Bordered alerts with icons",
+      "colored_alerts_with_icons": "Colored alerts with icons",
+      "neutral_alerts_with_icons": "Neutral alerts with icons"
+    },
+    "buttons": {
+      "title": "Buttons",
+      "default_buttons": "Default buttons",
+      "buttons_icons_and_expand": "Buttons icons and expand",
+      "square_buttons": "Square buttons",
+      "rounded_buttons": "Rounded buttons",
+      "status_buttons": "Status buttons",
+      "button_group": "Button group",
+      "button_dropdown": "Button dropdown"
+    },
+    "carousel": {
+      "title": "Carousel",
+      "basic_carousel": "Basic carousel",
+      "basic_carousel_without_caption": "Basic carousel without caption",
+      "basic_carousel_with_caption": "Basic carousel with caption"
+    },
+    "collapse": {
+      "title": "Collapse",
+      "minimal_collapse": "Minimal collapse",
+      "boxed_collapse": "Boxed collapse",
+      "boxed_collapse_full_width": "Boxed collapse full width"
+    },
+    "modals": {
+      "title": "Modals",
+      "default_modals": "Default modals",
+      "colored_modals": "Colored modals",
+      "header_modals": "Header modals"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "basic_notifications": "Basic notifications",
+      "image_notifications": "Image notifications",
+      "color_notifications": "Color notifications",
+      "color_states_full_width": "Color states full width"
+    },
+    "panels": {
+      "title": "Panels",
+      "default_panel": "Default panel",
+      "default_panel_with_subhead": "Default panel with subhead",
+      "default_panel_divider": "Default panel divider",
+      "label_panel_divider": "Label panel divider",
+      "icon_panel_divider": "Icon panel divider",
+      "tabs_panel_divider": "Tabs panel divider",
+      "success_panel": "Success panel",
+      "warning_panel": "Warning panel",
+      "danger_panel": "Danger panel"
+    },
+    "progress_bars": {
+      "title": "Progress bars",
+      "default_progress_bar": "Default progress bar",
+      "data_progress_bar": "Data progress bar",
+      "animated_progress_bar": "Animated progress bar",
+      "colored_progress_bars": "Colored progress bars",
+      "multisized_progress_bars": "Multisized progress bars",
+      "animated_multisized_progress_bars": "Animated multisized progress bars"
+    },
+    "range_sliders": {
+      "title": "Range sliders",
+      "slider_without_params": "Slider without params",
+      "slider_start_point": "Slider start point",
+      "double_slider_type": "Double slider type",
+      "slider_with_scale": "Slider with scale"
+    },
+    "tabs": {
+      "title": "Tabs",
+      "default_tabs": "Default tabs",
+      "default_tabs_bordered_top": "Default tabs bordered top",
+      "justify_tabs": "Justify tabs",
+      "justify_tabs_bordered_top": "Justify tabs bordered top",
+      "justify_tabs_bordered_bottom": "Justify tabs bordered bottom",
+      "tabs_bordered_bottom": "Tabs bordered bottom",
+      "vertical_tabs": "Vertical tabs"
+    },
+    "timeline": {
+      "title": "Timeline"
+    },
+    "grids": {
+      "title": "Grids"
+    },
+    "tooltips_popovers": {
+      "title": "Tooltips & Popovers",
+      "tooltip_on_top": "Tooltip on top",
+      "tooltip_on_bottom": "Tooltip on bottom",
+      "tooltip_on_right": "Tooltip on right",
+      "tooltip_on_left": "Tooltip on left",
+      "popover_on_top": "Popover on top",
+      "popover_on_bottom": "Popover on bottom",
+      "popover_on_right": "Popover on right",
+      "popover_on_left": "Popover on left"
+    },
+    "typography": {
+      "title": "Typography",
+      "basic_heading": "Basic heading",
+      "heading_with_subheading": "Heading with subheading",
+      "bold_heading": "Bold heading",
+      "sample_text": "Sample text",
+      "sample_text_with_description": "Sample text with description",
+      "default_list": "Default list",
+      "simple_icon_list": "Simple icon list",
+      "numerous_list": "Numerous list",
+      "blockquote": "Blockquote",
+      "highlight": "Highlight"
+    }
+  },
+  "mail_application": {
+    "page_title": "Mail Application",
+    "compose": "Compose",
+    "inbox": "Inbox",
+    "sent_mail": "Sent Mail",
+    "drafts": "Drafts",
+    "tagged": "Tagged",
+    "deleted": "Deleted",
+    "labels": "Labels",
+    "attachment": "Attachment",
+    "search": "Search"
+  },
+  "chat_application": {
+    "page_title": "Chat Application",
+    "search": "Search",
+    "type_here": "Type here",
+    "download": "Download",
+    "no_messages": "No messages"
+  },
+  "todo_application": {
+    "page_title": "Todo Application",
+    "add_new": "Add new todo"
+  },
+  "forms": {
+    "title": "Forms",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "basic_form": {
+      "title": "Basic form",
+      "horizontal_form": "Horizontal form",
+      "vertical_form": "Vertical form"
+    },
+    "check_form_controls": {
+      "title": "Check Form Controls",
+      "default_controls": "Default controls",
+      "colored_controls": "Colored controls",
+      "colored_controls_on_click": "Colored controls on click",
+      "button_type_controls": "Button type controls"
+    },
+    "file_upload": {
+      "title": "File upload",
+      "file_upload_default": "File upload default",
+      "file_upload_custom_height": "File upload custom height"
+    },
+    "floating_labels_form": {
+      "title": "Floating Labels Form",
+      "animated_line_inputs": "Animated line inputs forms with floating labels"
+    },
+    "form_dropzone": {
+      "title": "Form dropzone",
+      "drop_files_to_upload": "Drop files to upload"
+    },
+    "form_layouts": {
+      "title": "Form layouts",
+      "horizontal_form": "Horizontal form",
+      "horizontal_form_with_icons": "Horizontal form with icons",
+      "vertical_form": "Vertical form",
+      "vertical_form_with_icons": "Vertical form with icons"
+    },
+    "from_picker": {
+      "title": "Form-picker",
+      "date_picker": "Date picker",
+      "time_picker": "Time picker",
+      "color_picker": "Color picker"
+    },
+    "from_validation": {
+      "title": "Form Validation",
+      "horizontal_form_validate": "Horizontal form validate",
+      "horizontal_form_validate_two": "Horizontal form validate 2",
+      "vertical_form_validate": "Vertical form validate",
+      "vertical_form_validate_two": "Vertical form validate 2"
+    },
+    "mask_form": {
+      "title": "Mask form",
+      "mask_examples": "Mask examples"
+    },
+    "material_from": {
+      "title": "Material form",
+      "animated_line": "Animated line inputs forms"
+    },
+    "wizard_from": {
+      "title": "Wizard form",
+      "step": "Step",
+      "fill": "Fill your personal data",
+      "address": "What’s your address",
+      "set": "Set the preferences",
+      "back": "Back",
+      "next": "Next"
+    }
+  },
+  "tables": {
+    "title": "Tables",
+    "basic_tables": {
+      "title": "Basic tables",
+      "basic_table": "Basic table",
+      "bordered_table": "Bordered table",
+      "head_accent_table": "Head accent table",
+      "colored_string_table": "Colored string table",
+      "hover_colored_string_table": "Hover colored string table",
+      "inverse_table": "Inverse table",
+      "responsive_table": "Responsive table"
+    },
+    "data_table": {
+      "title": "Data table"
+    },
+    "editable_table": {
+      "title": "Editable table"
+    }
+  },
+  "charts": {
+    "title": "Charts",
+    "react_chartjs": {
+      "title": "ChartJS 2",
+      "point_sizes": "Point sizes",
+      "random_animated_line": "Random animated line",
+      "random_animated_bars": "Random animated bars",
+      "polar_area": "Polar area",
+      "dynamicly_refreshed_doughnut": "Denamicly refreshed doughnut",
+      "legend_handlers": "Legend handlers"
+    },
+    "react_vis": {
+      "title": "React-vis",
+      "plots": "Plots",
+      "line_series_canvas": "Line series canvas",
+      "mark_series_canvas": "Mark series canvas",
+      "line_series": "Line series",
+      "line_series_with_many_colors": "Line series with many colors",
+      "bars": "Bars"
+    },
+    "recharts": {
+      "title": "Recharts",
+      "simple_line_chart": "Simple line chart",
+      "dashed_line_chart": "Dashed  line chart",
+      "simple_area_chart": "Simple area chart",
+      "stacked_area_chart": "Stacked area chart",
+      "multiple_scatter_chart": "Multiple yaxes scatter chart",
+      "simple_radial_bar_chart": "Simple radial bar chart",
+      "simple_radar_chart": "Simple radar chart",
+      "two_level_pie_chart": "Two level pie chart"
+    }
+  },
+  "maps": {
+    "title": "Maps",
+    "google_map": {
+      "title": "Google map",
+      "basic_map": "Basic map",
+      "pin_with_info_window": "Pin with info window",
+      "monochrome_map": "Monochrome map"
+    },
+    "vector_map": {
+      "title": "Vector map",
+      "vector_world_map": "Vector world map"
+    }
+  },
+  "account": {
+    "title": "Account",
+    "email_confirmation": {
+      "title": "Email Confirmation",
+      "verified": "Your e-mail address has been successfully verified",
+      "thank_you": "Thank you for choosing the EasyDev",
+      "go_to_dashboard": "Go to dashboard",
+      "got_to_profile": "Go to profile"
+    },
+    "profile": {
+      "title": "Profile",
+      "current_tasks": "Current tasks",
+      "activity": "Activity",
+      "timeline": "Timeline",
+      "settings": "Settings"
+    }
+  },
+  "commerce": {
+    "title": "E-Commerce",
+    "cart": {
+      "title": "Cart",
+      "purchase": "Purchase"
+    },
+    "catalog": {
+      "title": "Catalog"
+    },
+    "orders_list": {
+      "title": "Orders List"
+    },
+    "payment": {
+      "title": "Payment",
+      "make_payment": "Make payment"
+    },
+    "product_edit": {
+      "title": "Product Edit",
+      "main_information": "Main information",
+      "pricing": "Pricing",
+      "general_information": "General information",
+      "save": "Save",
+      "cancel": "Cancel"
+    },
+    "product_page": {
+      "title": "Product Page",
+      "related_items": "Related items",
+      "pricing": "Pricing",
+      "general_information": "General information",
+      "save": "Save",
+      "cancel": "Cancel"
+    },
+    "product_list": {
+      "title": "Product List"
+    }
+  },
+  "default_pages": {
+    "title": "Default Pages",
+    "calendar": {
+      "title": "Calendar",
+      "events_labels": "Events labels",
+      "create_new_event": "Create new event"
+    },
+    "faqs": {
+      "title": "FAQs"
+    },
+    "gallery": {
+      "title": "Gallery",
+      "filter_gallery": "Filter gallery"
+    },
+    "invoice": {
+      "title": "Invoice template",
+      "proceed_to_payment": "Proceed to payment",
+      "print": "Print"
+    },
+    "pricing_cards": {
+      "title": "Pricing Cards",
+      "basic": "Basic",
+      "special": "Special",
+      "pro": "Pro",
+      "premium": "Premium",
+      "sign_up": "Sign Up"
+    },
+    "project_summary": {
+      "title": "Project summary",
+      "global_company": "Nes website for global company",
+      "task_statistic": "Task statistic",
+      "project_team": "Project team"
+    },
+    "search_results": {
+      "title": "Search Results",
+      "search_here": "Search here"
+    },
+    "text_editor": {
+      "title": "Text Editor"
+    }
+  },
+  "multilevel": {
+    "title": "Multilevel Menu",
+    "second": "Second Level Item",
+    "third": "Third Level Item"
+  },
+  "log_out": "Log Out",
+  "documentation": "Documentation",
+  "other_pages": "Other pages",
+  "dashboards": "Dashboards",
+  "topbar": {
+    "profile": "My Profile",
+    "calendar": "Calendar",
+    "tasks": "Tasks",
+    "inbox": "Inbox",
+    "account_settings": "Account Settings",
+    "lock_screen": "Lock screen",
+    "log_out": "Log out"
+  }
+}

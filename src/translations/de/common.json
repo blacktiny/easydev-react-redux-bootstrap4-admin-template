@@ -1,0 +1,449 @@
+{
+	"dashboard_default": {
+		"page_title": "Standard-Dashboard",
+		"visits": "Besuche",
+		"total_page_views": "Gesamtzahl der aufgerufenen Seiten",
+		"new_users": "Neue Nutzer",
+		"bounce_rate": "Absprungrate",
+		"ab_testing": "A / B-Testanalyse",
+		"visitors_sessions": "Besuchersitzungen",
+		"sales_statistic": "Verkaufsstatistik",
+		"budget_statistic": "Budgetstatistik",
+		"audience_by_country": "Zielgruppe nach Land",
+		"best_selling": "meistverkaufte Regionen",
+		"goals_completion": "Ziel erreicht"
+	},
+	"dashboard_commerce": {
+		"page_title": "E-Commerce des Dashboards",
+		"total_products": "Gesamtprodukte",
+		"total_profit": "Gesamtgewinn",
+		"orders_today": "bestellt heute",
+		"subscriptions": "Abonnements",
+		"product_sales": "Verkauf von Produkten",
+		"new_orders": "Neue Bestellungen",
+		"my_todos": "meine Todos",
+		"sales_statistic": "Verkaufsstatistik",
+		"sales_report": "Umsatzbericht",
+		"emails": "E-Mails",
+		"short_reminders": "kurze Erinnerungen",
+		"top_selling_products": "Meistverkaufte Produkte",
+		"basic_card": "Basiskarte",
+		"recent_orders": "Letzte Bestellungen"
+	},
+	"dashboard_fitness": {
+		"page_title": "Armaturenbrett-Fitness",
+		"heartrate": "Herzfrequenz",
+		"calories_burn": "Kalorien verbrennen",
+		"steps": "Schritte",
+		"distance": "Entfernung",
+		"activity_chart": "Aktivitätsdiagramm",
+		"today_running_map": "Heute laufende Karte",
+		"my_competitors": "Meine Konkurrenten",
+		"fat_burning": "Fettverbrennung",
+		"activity_rating": "Aktivitätsbewertung"
+	},
+	"dashboard_crypto": {
+		"page_title": "Crypto Dashboard",
+		"trade_history": "Handelsgeschichte",
+		"cryptotrends_today": "Cryptotrends heute",
+		"place_order": "Bestellung aufgeben",
+		"top_cryptocurrencies": "Top 10 Cryptocurrencies"
+	},
+    "dashboard_mobile_app": {
+      "page_title": "Dashboard DE Mobile App",
+      "current_users": "Current Users",
+      "active_users": "Active Users",
+      "widget_sessions": "Sessions",
+      "widget_active_users": "Active Users",
+      "widget_new_users": "New Users",
+      "widget_pageviews": "Pageviews",
+	  "app_tile_clicks": "App Tile Clicks",
+      "weekly_stat_mobile": "Weekly Stat",
+	  "social_marketing_mobile": "Social Marketing"
+
+    },
+	"layout": {
+		"page_title": "Layout",
+		"light_theme": "Lichtthema",
+		"dark_theme": "dunkles Thema"
+	},
+	"ui_elements": {
+		"title": "Benutzeroberflächenelemente",
+		"alerts": {
+			"title": "Warnungen",
+			"basic_alerts": "Grundalarme",
+			"bordered_alerts_with_icons": "Gerahmte Warnungen mit Symbolen",
+			"colored_alerts_with_icons": "Bunte Warnungen mit Symbolen",
+			"neutral_alerts_with_icons": "Neutrale Warnungen mit Symbolen"
+		},
+		"buttons": {
+			"title": "knöpfe",
+			"default_buttons": "Standardtasten",
+			"buttons_icons_and_expand": "Schaltflächensymbole und erweitern",
+			"square_buttons": "Quadrat-Schaltflächen",
+			"rounded_buttons": "gerundete Buttons",
+			"status_buttons": "Statustasten",
+			"button_group": "Gruppe von Schaltflächen",
+			"button_dropdown": "Dropdown-Menü"
+		},
+		"carousel": {
+			"title": "Karussell",
+			"basic_carousel": "Grundkarussell",
+			"basic_carousel_without_caption": "Grundkarussell ohne Beschriftung",
+			"basic_carousel_with_caption": "Grundkarussell mit Beschriftung"
+		},
+		"collapse": {
+			"title": "Zusammenbruch",
+			"minimal_collapse": "Minimaler Kollaps",
+			"boxed_collapse": "Box-Kollaps",
+			"boxed_collapse_full_width": "Konserven ganze Breite"
+		},
+		"modals": {
+			"title": "Modale",
+			"default_modals": "Modas par défaut",
+			"colored_modals": "farbige Modale",
+			"header_modals": "Header-Modalitäten"
+		},
+		"notifications": {
+			"title": "Benachrichtigungen",
+			"basic_notifications": "Basisbenachrichtigungen",
+			"image_notifications": "Bildbenachrichtigungen",
+			"color_notifications": "Farbbenachrichtigungen",
+			"color_states_full_width": "Die Farbe gibt die volle Breite an"
+		},
+		"panels": {
+			"title": "Panels",
+			"default_panel": "Standard-Panel",
+			"default_panel_with_subhead": "Standard-Panel mit Untertitel",
+			"default_panel_divider": "Standard Panel Divider",
+			"label_panel_divider": "label panel separator",
+			"icon_panel_divider": "Icon Panel Divider",
+			"tabs_panel_divider": "Tab Panel Divider",
+			"success_panel": "Erfolgspanel",
+			"warning_panel": "Warnzeichen",
+			"danger_panel": "Gefahrenzeichen"
+		},
+		"progress_bars": {
+			"title": "Fortschrittsbalken",
+			"default_progress_bar": "Standard Fortschrittsbalken",
+			"data_progress_bar": "Datenfortschrittsleiste",
+			"animated_progress_bar": "Animierte Fortschrittsleiste",
+			"colored_progress_bars": "Farbige Fortschrittsbalken",
+			"multisized_progress_bars": "Multisized Fortschrittsbalken",
+			"animated_multisized_progress_bars": "Animierte Fortschrittsbalken in mehreren Größen"
+		},
+		"range_sliders": {
+			"title": "Entfernungscursor",
+			"slider_without_params": "Cursor ohne Parameter",
+			"slider_start_point": "Startpunkt des Cursors",
+			"double_slider_type": "Doppelter Cursortyp",
+			"slider_with_scale": "Schieberegler mit Skalierung"
+		},
+		"tabs": {
+			"title": "tabs",
+			"default_tabs": "Standard-Tabs",
+			"default_tabs_bordered_top": "Standard-Tabs am oberen Rand",
+			"justify_tabs": "Justify tabs",
+			"justify_tabs_bordered_top": "Justify tabs righted",
+			"justify_tabs_bordered_bottom": "Justify Tabs Down",
+			"tabs_bordered_bottom": "Tabs runter",
+			"vertical_tabs": "Vertikale Tabs"
+		},
+		"timeline": {
+			"title": "Zeitleiste"
+		},
+		"grids": {
+			"title": "Gitter"
+		},
+		"tooltips_popovers": {
+			"title": "Tooltips & Popovers",
+			"tooltip_on_top": "Tooltip top",
+			"tooltip_on_bottom": "Tooltip down",
+			"tooltip_on_right": "Tooltip rechts",
+			"tooltip_on_left": "Tooltip links",
+			"popover_on_top": "Popover auf der Spitze",
+			"popover_on_bottom": "Popover am Boden",
+			"popover_on_right": "Popover rechts",
+			"popover_on_left": "Popover auf der linken Seite"
+		},
+		"typography": {
+			"title": "typografie",
+			"basic_heading": "Kopfzeile",
+			"heading_with_subheading": "Titel mit Untertitel",
+			"bold_heading": "Fettkopf",
+			"sample_text": "Beispieltext",
+			"sample_text_with_description": "Beispieltext mit Beschreibung",
+			"default_list": "Standardliste",
+			"simple_icon_list": "Einfache Liste von Symbolen",
+			"numerous_list": "Viele Listen",
+			"blockquote": "blockquote",
+			"highlight": "Hervorhebung"
+		}
+	},
+	"mail_application": {
+		"page_title": "E-Mail-Anwendung",
+		"compose": "Wählen",
+		"inbox": "Posteingang",
+		"sent_mail": "Mail gesendet",
+		"drafts": "Entwürfe",
+		"tagged": "Tagged",
+		"deleted": "gelöscht",
+		"labels": "Etiketten",
+		"attachment": "Anhang",
+		"search": "Suche"
+	},
+	"chat_application": {
+		"page_title": "Chat-Anwendung",
+		"search": "Suche",
+		"type_here": "Hier eingeben",
+		"download": "Herunterladen",
+		"no_messages": "Keine Nachricht"
+	},
+    "todo_application": {
+      "page_title": "Todo-Anwendung",
+      "add_new": "Add new todo"
+    },
+	"forms": {
+		"title": "Formulare",
+		"submit": "Abschicken",
+		"cancel": "Abbrechen",
+		"basic_form": {
+			"title": "Grundform",
+			"horizontal_form": "horizontale Form",
+			"vertical_form": "vertikale Form"
+		},
+		"check_form_controls": {
+			"title": "Kontrollformulare prüfen",
+			"default_controls": "Standard-Steuerelemente",
+			"colored_controls": "Farbsteuerelemente",
+			"colored_controls_on_click": "Farbsteuerelemente beim Klicken",
+			"button_type_controls": "Button type controls"
+		},
+		"file_upload": {
+			"title": "Dateidownload",
+			"file_upload_default": "Datei wird standardmäßig heruntergeladen",
+			"file_upload_custom_height": "Benutzerdefinierte Dateidownloadhöhe"
+		},
+		"floating_labels_form": {
+			"title": "Floating Label Form",
+			"animated_line_inputs": "Animierte Zeileneingabeformulare mit Floating-Tags"
+		},
+		"form_dropzone": {
+			"title": "Formular-Dropzone",
+			"drop_files_to_upload": "Dateien zum Herunterladen löschen"
+		},
+		"form_layouts": {
+			"title": "Formularlayouts",
+			"horizontal_form": "horizontale Form",
+			"horizontal_form_with_icons": "Horizontale Form mit Symbolen",
+			"vertical_form": "vertikale Form",
+			"vertical_form_with_icons": "vertikale Form mit Symbolen"
+		},
+		"from_picker": {
+			"title": "Formularauswahl",
+			"date_picker": "Datumsauswahl",
+			"time_picker": "Zeitauswahl",
+			"color_picker": "Farbauswahl"
+		},
+		"from_validation": {
+			"title": "Formularvalidierung",
+			"horizontal_form_validate": "horizontale Validierung des Formulars",
+			"horizontal_form_validate_zwei": "Horizontale Form validiere 2",
+			"vertical_form_validate": "Gültige vertikale Form",
+			"vertical_form_validate_two": "Gültige vertikale Form 2"
+		},
+		"mask_form": {
+			"title": "Maskenform",
+			"mask_examples": "Beispiele für Masken"
+		},
+		"material_from": {
+			"title": "materielle Form",
+			"animated_line": "Animierte Zeileneingabeformulare"
+		},
+		"wizard_from": {
+			"title": "Form des Magiers",
+			"step": "Schritt",
+			"fill": "Geben Sie Ihre persönlichen Daten ein",
+			"address": "Was ist deine Adresse",
+			"set": "Einstellungen festlegen",
+			"back": "zurück",
+			"next": "Nächstes"
+		}
+	},
+	"tables": {
+		"title": "Tabellen",
+		"basic_tables": {
+			"title": "Basistabellen",
+			"basic_table": "Basistabelle",
+			"bordered_table": "Begrenzte Tabelle",
+			"head_accent_table": "Tabelle der Kopfakzente",
+			"colored_string_table": "Farbtabelle",
+			"hover_colored_string_table": "Tabelle der farbigen Strings",
+			"table_inverse": "inverse Tabelle",
+			"responsive_table": "Responsive Tabelle"
+		},
+		"data_table": {
+			"title": "Datentabelle"
+		},
+		"editable_table": {
+			"title": "Editierbare Tabelle"
+		}
+	},
+	"charts": {
+		"title": "Grafik",
+		"react_chartjs": {
+			"title": "ChartJS 2",
+			"point_sizes": "Punktgrößen",
+			"random_animated_line": "Zufällige animierte Zeile",
+			"random_animated_bars": "Zufällige animierte Balken",
+			"polar_area": "Polare Zone",
+			"dynamic_refreshed_doughnut": "Aufgefrischter Donut",
+			"legend_handlers": "Legendenmanager"
+		},
+		"react_vis": {
+			"title": "Reagieren-vis",
+			"plots": "Pakete",
+			"line_series_canvas": "Linienserie",
+			"mark_series_canvas": "Markierserien",
+			"line_series": "Linienserie",
+			"line_series_with_many_colors": "Reihe von Linien mit vielen Farben",
+			"bars": "Bars"
+		},
+		"recharts": {
+			"title": "Schreibt",
+			"simple line chart": "Single-Liniendiagramm",
+			"dashed_line_chart": "Gepunktete Liniendiagramm",
+			"simple_area_chart": "Einfaches Zonendiagramm",
+			"stacked_area_chart": "stacked area graph",
+			"multiple_scatter_chart": "Mehrfachpunktwolke",
+			"simple_radial_bar_chart": "Einfaches radiales Balkendiagramm",
+			"simple_radar_chart": "einfaches Radardiagramm",
+			"two_level_pie_chart": "Zweistufiges Tortendiagramm"
+		}
+	},
+	"maps": {
+		"title": "Karten",
+		"google_map": {
+			"title": "Google map",
+			"basic_map": "Basiskarte",
+			"pin_with_info_window": "Pin mit Infofenster",
+			"monochrome_map": "Monochrome Karte"
+		},
+		"vector_map": {
+			"title": "vektorkarte",
+			"vector_world_map": "Karte der Welt der Vektoren"
+		}
+	},
+	"account": {
+		"title": "Konto",
+		"email_confirmation": {
+			"title": "Bestätigung per E-Mail",
+			"verified": "Ihre E-Mail-Adresse wurde erfolgreich verifiziert",
+			"thank_you": "Danke, dass Sie sich für EasyDev entschieden haben",
+			"go_to_dashboard": "Gehe zum Dashboard",
+			"got_to_profile": "gehe zum Profil"
+		},
+		"profile": {
+			"title": "Profil",
+			"current_tasks": "laufende Aufgaben",
+			"activity": "Aktivität",
+			"timeline": "Zeitleiste",
+			"settings": "Einstellungen"
+		}
+	},
+	"commerce": {
+		"title": "E-Commerce",
+		"cart": {
+			"title": "Warenkorb",
+			"purchase": "Kauf"
+		},
+		"catalog": {
+			"title": "Katalog"
+		},
+		"orders_list": {
+			"title": "Auftragsliste"
+		},
+		"payment": {
+			"title": "Zahlung",
+			"make_payment": "Zahlung ausführen"
+		},
+		"product_edit": {
+			"title": "Produkt bearbeiten",
+			"main_information": "Hauptinformationen",
+			"pricing": "Preisfindung",
+			"general_information": "Allgemeine Informationen",
+			"save": "Speichern",
+			"cancel": "Abbrechen"
+		},
+		"product_page": {
+			"title": "Produktseite",
+			"related_items": "Verwandte Artikel",
+			"pricing": "Preisfindung",
+			"general_information": "Allgemeine Informationen",
+			"save": "Speichern",
+			"cancel": "Abbrechen"
+		},
+		"product_list": {
+			"title": "Produktliste"
+		}
+	},
+	"default_pages": {
+		"title": "Standardseiten",
+		"calendar": {
+			"title": "Kalender",
+			"events_labels": "Ereignissetiketten",
+			"create_new_event": "Neues Ereignis erstellen"
+		},
+		"faqs": {
+			"title": "FAQs"
+		},
+		"gallery": {
+			"title": "Galerie",
+			"filter_gallery": "Filtergalerie"
+		},
+		"invoice": {
+			"title": "Rechnungsvorlage",
+			"proceed_to_payment": "Weiter zur Zahlung",
+			"print": "Drucken"
+		},
+		"pricing_cards": {
+			"title": "Preiskalkulation",
+			"basic": "Einfach",
+			"special": "speziell",
+			"pro": "Profi",
+			"premium": "Premium",
+			"sign_up": "Registrieren"
+		},
+		"project_summary": {
+			"title": "Projektzusammenfassung",
+			"global_company": "Nes Website für globales Unternehmen",
+			"task_statistic": "Aufgabenstatistik",
+			"project_team": "Projektteam"
+		},
+		"search_results": {
+			"title": "Suchergebnisse",
+			"search_here": "Hier suchen"
+		},
+		"text_editor": {
+			"title": "Texteditor"
+		}
+	},
+	"multilevel": {
+		"title": "Mehrstufiges Menü",
+		"second": "Second Level Item",
+		"third": "Dritter Gegenstand"
+	},
+	"log_out": "Abmelden",
+	"documentation": "Dokumentation",
+	"other_pages": "Andere Seiten",
+	"dashboards": "Dashboards",
+	"topbar": {
+		"profile": "Mein Profil",
+		"calendar": "Kalender",
+		"tasks": "Aufgaben",
+		"inbox": "Posteingang",
+		"account_settings": "Kontoeinstellungen",
+		"lock_screen": "Bildschirm sperren",
+		"log_out": "Abmelden"
+	}
+}

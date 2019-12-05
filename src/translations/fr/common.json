@@ -1,0 +1,451 @@
+{
+  "dashboard_default": {
+    "page_title": "Dashboard Default",
+    "visits": "visites",
+    "total_page_views": "Nombre total de pages vues",
+    "new_users": "Nouveaux utilisateurs",
+    "bounce_rate": "taux de rebond",
+    "ab_testing": "analyse de test A / B",
+    "visitors_sessions": "Sessions visiteurs",
+    "sales_statistic": "statistiques de vente",
+    "budget_statistic": "statistique du budget",
+    "audience_by_country": "Audience par pays",
+    "best_selling": "régions les plus vendues",
+    "goals_completion": "Objectif atteint"
+  },
+  "dashboard_commerce": {
+    "page_title": "E-commerce du tableau de bord",
+    "total_products": "Total produits",
+    "total_profit": "bénéfice total",
+    "orders_today": "commandes aujourd'hui",
+    "subscriptions": "abonnements",
+    "product_sales": "Vente de produits",
+    "new_orders": "Nouvelles commandes",
+    "my_todos": "mes todos",
+    "sales_statistic": "statistiques de vente",
+    "sales_report": "Rapport de vente",
+    "emails": "Emails",
+    "short_reminders": "rappels courts",
+    "top_selling_products": "Produits les plus vendus",
+    "basic_card": "Carte de base",
+    "recent_orders": "Commandes récentes"
+  },
+  "dashboard_fitness": {
+    "page_title": "Dashboard Fitness",
+    "heartrate": "Heartrate",
+    "calories_burn": "les calories brûlent",
+    "steps": "étapes",
+    "distance": "distance",
+    "activity_chart": "graphique d'activité",
+    "today_running_map": "Today running map",
+    "my_competitors": "Mes concurrents",
+    "fat_burning": "Fat Burning",
+    "activity_rating": "évaluation de l'activité"
+  },
+  "dashboard_crypto": {
+    "page_title": "Dashboard Crypto",
+    "trade_history": "histoire du commerce",
+    "cryptotrends_today": "Cryptotrends today",
+    "place_order": "passer la commande",
+    "top_cryptocurrencies": "Top 10 des cryptomonnaies"
+  },
+  "dashboard_mobile_app": {
+    "page_title": "Dashboard FR Mobile App",
+    "current_users": "Current Users",
+    "active_users": "Active Users",
+    "widget_sessions": "Sessions",
+    "widget_active_users": "Active Users",
+    "widget_new_users": "New Users",
+    "widget_pageviews": "Pageviews",
+    "app_tile_clicks": "App Tile Clicks",
+    "weekly_stat_mobile": "Weekly Stat",
+    "social_marketing_mobile": "Social Marketing"
+  },
+  "layout": {
+    "page_title": "Mise en page",
+    "light_theme": "Thème lumière",
+    "dark_theme": "thème sombre"
+  },
+  "ui_elements": {
+    "title": "éléments d'interface utilisateur",
+    "alerts": {
+      "title": "Alertes",
+      "basic_alerts": "Alertes de base",
+      "bordered_alerts_with_icons": "Alertes encadrées avec icônes",
+      "colored_alerts_with_icons": "Alertes colorées avec icônes",
+      "neutral_alerts_with_icons": "Alertes neutres avec icônes"
+    },
+    "buttons": {
+      "title": "boutons",
+      "default_buttons": "boutons par défaut",
+      "buttons_icons_and_expand": "Icônes des boutons et développer",
+      "square_buttons": "boutons carrés",
+      "rounded_buttons": "boutons arrondis",
+      "status_buttons": "boutons d'état",
+      "button_group": "Groupe de boutons",
+      "button_dropdown": "Menu déroulant"
+    },
+    "carousel": {
+      "title": "carrousel",
+      "basic_carousel": "Carrousel de base",
+      "basic_carousel_without_caption": "Carrousel de base sans légende",
+      "basic_carousel_with_caption": "Carrousel de base avec légende"
+    },
+    "collapse": {
+      "title": "Collapse",
+      "minimal_collapse": "Effondrement minimal",
+      "boxed_collapse": "Effondrement en boîte",
+      "boxed_collapse_full_width": "Réduire en boîte toute la largeur"
+    },
+    "modals": {
+      "title": "Modals",
+      "default_modals": "Modaux par défaut",
+      "colored_modals": "modaux colorés",
+      "header_modals": "Modaux d'en-tête"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "basic_notifications": "notifications de base",
+      "image_notifications": "notifications d'image",
+      "color_notifications": "Notifications de couleur",
+      "color_states_full_width": "La couleur indique la pleine largeur"
+    },
+    "panels": {
+      "title": "Panneaux",
+      "default_panel": "Panneau par défaut",
+      "default_panel_with_subhead": "Panneau par défaut avec sous-titre",
+      "default_panel_divider": "Diviseur de panneau par défaut",
+      "label_panel_divider": "séparateur de panneaux d'étiquettes",
+      "icon_panel_divider": "Diviseur de panneau d'icônes",
+      "tabs_panel_divider": "Diviseur de panneau d'onglets",
+      "success_panel": "Panneau de réussite",
+      "warning_panel": "Panneau d'avertissement",
+      "danger_panel": "Panneau de danger"
+    },
+    "progress_bars": {
+      "title": "barres de progression",
+      "default_progress_bar": "Barre de progression par défaut",
+      "data_progress_bar": "Barre de progression des données",
+      "animated_progress_bar": "Barre de progression animée",
+      "colored_progress_bars": "Barres de progression colorées",
+      "multisized_progress_bars": "Barres de progression multisized",
+      "animated_multisized_progress_bars": "Barres de progression animées multi-tailles"
+    },
+    "range_sliders": {
+      "title": "Curseurs Range",
+      "slider_without_params": "curseur sans paramètres",
+      "slider_start_point": "point de départ du curseur",
+      "double_slider_type": "Type à double curseur",
+      "slider_with_scale": "curseur avec échelle"
+    },
+    "tabs": {
+      "title": "onglets",
+      "default_tabs": "Onglets par défaut",
+      "default_tabs_bordered_top": "Onglets par défaut bordés en haut",
+      "justify_tabs": "Justify tabs",
+      "justify_tabs_bordered_top": "Justifier les onglets bordés du haut",
+      "justify_tabs_bordered_bottom": "Justifier les tabulations en bas",
+      "tabs_bordered_bottom": "tabulations en bas",
+      "vertical_tabs": "Onglets verticaux"
+    },
+    "timeline": {
+      "title": "Timeline"
+    },
+    "grids": {
+      "title": "Grilles"
+    },
+    "tooltips_popovers": {
+      "title": "Tooltips & Popovers",
+      "tooltip_on_top": "Info-bulle en haut",
+      "tooltip_on_bottom": "Info-bulle en bas",
+      "tooltip_on_right": "Info-bulle à droite",
+      "tooltip_on_left": "Tooltip à gauche",
+      "popover_on_top": "Popover sur le dessus",
+      "popover_on_bottom": "Popover on bottom",
+      "popover_on_right": "Popover à droite",
+      "popover_on_left": "Popover à gauche"
+    },
+    "typography": {
+      "title": "typographie",
+      "basic_heading": "en-tête",
+      "heading_with_subheading": "Intitulé avec le sous-titre",
+      "bold_heading": "En-tête gras",
+      "sample_text": "Exemple de texte",
+      "sample_text_with_description": "Exemple de texte avec description",
+      "default_list": "Liste par défaut",
+      "simple_icon_list": "Liste simple des icônes",
+      "numerous_list": "Nombreuses listes",
+      "blockquote": "blockquote",
+      "highlight": "surligner"
+    }
+  },
+  "mail_application": {
+    "page_title": "Mail Application",
+    "compose": "composer",
+    "inbox": "Boîte de réception",
+    "sent_mail": "Mail envoyé",
+    "drafts": "Brouillons",
+    "tagged": "Tagged",
+    "deleted": "supprimé",
+    "labels": "étiquettes",
+    "attachment": "pièce jointe",
+    "search": "Chercher"
+  },
+  "chat_application": {
+    "page_title": "Chat Application",
+    "search": "Chercher",
+    "type_here": "Tapez ici",
+    "download": "Télécharger",
+    "no_messages": "Pas de message"
+  },
+  "todo_application": {
+    "page_title": "Todo Application",
+    "add_new": "Add new todo"
+  },
+  "forms": {
+    "title": "Forms",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "basic_form": {
+      "title": "forme de base",
+      "horizontal_form": "forme horizontale",
+      "vertical_form": "forme verticale"
+    },
+    "check_form_controls": {
+      "title": "Contrôles des formulaires de contrôle",
+      "default_controls": "Contrôles par défaut",
+      "colored_controls": "Contrôles de couleur",
+      "colored_controls_on_click": "Contrôles de couleur sur clic",
+      "button_type_controls": "Contrôles de type de bouton"
+    },
+    "file_upload": {
+      "title": "téléchargement de fichier",
+      "file_upload_default": "fichier téléchargé par défaut",
+      "file_upload_custom_height": "Hauteur personnalisée du téléchargement du fichier"
+    },
+    "floating_labels_form": {
+      "title": "Formulaire d'étiquettes flottantes",
+      "animated_line_inputs": "Formulaires d'entrées de lignes animées avec étiquettes flottantes"
+    },
+    "form_dropzone": {
+      "title": "Form dropzone",
+      "drop_files_to_upload": "Déposer les fichiers à télécharger"
+    },
+    "form_layouts": {
+      "title": "dispositions de formulaire",
+      "horizontal_form": "forme horizontale",
+      "horizontal_form_with_icons": "Forme horizontale avec icônes",
+      "vertical_form": "forme verticale",
+      "vertical_form_with_icons": "forme verticale avec des icônes"
+    },
+    "from_picker": {
+      "title": "sélecteur de formulaire",
+      "date_picker": "Date picker",
+      "time_picker": "Time picker",
+      "color_picker": "Sélecteur de couleurs"
+    },
+    "from_validation": {
+      "title": "Validation de formulaire",
+      "horizontal_form_validate": "validation horizontale de la forme",
+      "horizontal_form_validate_two": "Formulaire horizontal validate 2",
+      "vertical_form_validate": "Formulaire vertical valide",
+      "vertical_form_validate_two": "Formulaire vertical valide 2"
+    },
+    "mask_form": {
+      "title": "forme de masque",
+      "mask_examples": "Exemples de masques"
+    },
+    "material_from": {
+      "title": "forme matérielle",
+      "animated_line": "Formulaires d'entrées de lignes animées"
+    },
+    "wizard_from": {
+      "title": "Formulaire du magicien",
+      "step": "Step",
+      "fill": "Remplissez vos données personnelles",
+      "address": "Quelle est votre adresse",
+      "set": "Définir les préférences",
+      "back": "retour",
+      "next": "Suivant"
+    }
+  },
+  "tables": {
+    "title": "Tables",
+    "basic_tables": {
+      "title": "Tables de base",
+      "basic_table": "Tableau de base",
+      "bordered_table": "Bordered table",
+      "head_accent_table": "Table des accents de tête",
+      "colored_string_table": "Table de couleur",
+      "hover_colored_string_table": "Table de chaînes colorées",
+      "table_inverse": "table inverse",
+      "responsive_table": "Table réactive"
+    },
+    "data_table": {
+      "title": "Table de données"
+    },
+    "editable_table": {
+      "title": "Table modifiable"
+    }
+  },
+  "charts": {
+    "title": "Graphiques",
+    "react_chartjs": {
+      "title": "ChartJS 2",
+      "point_sizes": "tailles de points",
+      "random_animated_line": "Ligne animée aléatoire",
+      "random_animated_bars": "Barres animées aléatoires",
+      "polar_area": "Zone polaire",
+      "dynamicly_refreshed_doughnut": "Beignet rafraîchi",
+      "legend_handlers": "gestionnaires de légende"
+    },
+    "react_vis": {
+      "title": "React-vis",
+      "parcelles": "parcelles",
+      "line_series_canvas": "Line series canvas",
+      "mark_series_canvas": "Mark series canvas",
+      "line_series": "Line series",
+      "line_series_with_many_colors": "Séries de lignes avec beaucoup de couleurs",
+      "bars": "Bars"
+    },
+    "recharts": {
+      "title": "Recharts",
+      "simple line chart": "graphique à lignes simple",
+      "dashed_line_chart": "Graphique en traits pointillés",
+      "simple_area_chart": "Diagramme de zone simple",
+      "stacked_area_chart": "graphique de zone empilée",
+      "multiple_scatter_chart": "nuage de points multiples",
+      "simple_radial_bar_chart": "Diagramme à barres radial simple",
+      "simple_radar_chart": "graphique radar simple",
+      "two_level_pie_chart": "Graphique circulaire à deux niveaux"
+    }
+  },
+  "maps": {
+    "title": "Maps",
+    "google_map": {
+      "title": "Google map",
+      "basic_map": "Carte de base",
+      "pin_with_info_window": "Pin with info window",
+      "monochrome_map": "Carte monochrome"
+    },
+    "vector_map": {
+      "title": "carte vectorielle",
+      "vector_world_map": "Carte du monde des vecteurs"
+    }
+  },
+  "account": {
+    "title": "Compte",
+    "email_confirmation": {
+      "title": "Confirmation par courrier électronique",
+      "verified": "Votre adresse e-mail a été vérifiée avec succès",
+      "thank_you": "Merci d'avoir choisi EasyDev",
+      "go_to_dashboard": "Aller au tableau de bord",
+      "got_to_profile": "aller au profil"
+    },
+    "profile": {
+      "title": "Profile",
+      "current_tasks": "tâches en cours",
+      "activity": "activité",
+      "timeline": "Timeline",
+      "settings": "Paramètres"
+    }
+  },
+  "commerce": {
+    "title": "commerce électronique",
+    "cart": {
+      "title": "Cart",
+      "purchase": "achat"
+    },
+    "catalog": {
+      "title": "Catalogue"
+    },
+    "orders_list": {
+      "title": "Liste des commandes"
+    },
+    "payment": {
+      "title": "Paiement",
+      "make_payment": "Effectuer le paiement"
+    },
+    "product_edit": {
+      "title": "Product Edit",
+      "main_information": "Informations principales",
+      "pricing": "prix",
+      "general_information": "Informations générales",
+      "save": "enregistrer",
+      "cancel": "Annuler"
+    },
+    "product_page": {
+      "title": "page de produit",
+      "related_items": "Articles connexes",
+      "pricing": "prix",
+      "general_information": "Informations générales",
+      "save": "enregistrer",
+      "cancel": "Annuler"
+    },
+    "product_list": {
+      "title": "Liste de produits"
+    }
+  },
+  "default_pages": {
+    "title": "Pages par défaut",
+    "calendar": {
+      "title": "Calendrier",
+      "events_labels": "étiquettes d'événements",
+      "create_new_event": "Créer un nouvel événement"
+    },
+    "faqs": {
+      "title": "FAQ"
+    },
+    "gallery": {
+      "title": "Galerie",
+      "filter_gallery": "Galerie de filtres"
+    },
+    "invoice": {
+      "title": "Modèle de facture",
+      "proceed_to_payment": "Procéder au paiement",
+      "print": "imprimer"
+    },
+    "pricing_cards": {
+      "title": "Cartes de prix",
+      "basic": "Basic",
+      "special": "spécial",
+      "pro": "Pro",
+      "premium": "Premium",
+      "sign_up": "Inscrivez-vous"
+    },
+    "project_summary": {
+      "title": "Résumé du projet",
+      "global_company": "Site Web de Nes pour une entreprise mondiale",
+      "task_statistic": "statistique de tâche",
+      "project_team": "Équipe du projet"
+    },
+    "search_results": {
+      "title": "Résultats de la recherche",
+      "search_here": "Rechercher ici"
+    },
+    "text_editor": {
+      "title": "Editeur de texte"
+    }
+  },
+  "multilevel": {
+    "title": "Menu à plusieurs niveaux",
+    "second": "élément de second niveau",
+    "third": "élément de troisième niveau"
+  },
+  "log_out": "Déconnexion",
+  "documentation": "Documentation",
+  "other_pages": "Autres pages",
+  "dashboards": "tableaux de bord",
+  "topbar": {
+    "profile": "Mon profil",
+    "calendar": "Calendrier",
+    "tasks": "tâches",
+    "inbox": "Boîte de réception",
+    "account_settings": "Paramètres du compte",
+    "lock_screen": "Verrouiller l'écran",
+    "log_out": "Déconnexion"
+  }
+}
+
+
+

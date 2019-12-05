@@ -1,0 +1,170 @@
+.project-summary {
+  position: relative;
+
+  hr {
+    margin: 30px 0;
+  }
+}
+
+.project-summary__info {
+  margin-bottom: 5px;
+  @include directify($directions) {
+    text-align: directed('left');
+  }
+
+  td {
+    @include directify($directions) {
+      #{directed('padding-left')}: 10px;
+    }
+  }
+
+  th {
+    color: $color-additional;
+    font-weight: 500;
+  }
+
+  td, th {
+    padding-bottom: 5px;
+  }
+}
+
+.project-summary__stats {
+  display: flex;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.project-summary__stat {
+  @include directify($directions) {
+    #{directed('margin-right')}: auto;
+    #{directed('padding-right')}: 20px;
+  }
+
+  p {
+    font-size: 24px;
+    line-height: 32px;
+    margin: 0;
+  }
+
+  span {
+    color: $color-additional;
+    font-size: 13px;
+  }
+}
+
+.project-summary__progress {
+  max-width: 460px;
+  width: 100%;
+  margin: auto 0;
+
+  &:last-child {
+    margin: auto 0;
+  }
+}
+
+.project-summary__statistic-title {
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.project-summary__statistic {
+  padding-top: 40px;
+  width: 47%;
+  @include directify($directions) {
+    #{directed('margin-right')}: 5px;
+  }
+}
+
+.project-summary__statistic-chart-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.project-summary__statistics {
+  @include directify($directions) {
+    text-align: directed('left');
+  }
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.project-summary__statistics-refresh {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  @include directify($directions) {
+    #{directed('left')}: 0px;
+  }
+
+  &:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    top: 0;
+    @include directify($directions) {
+      #{directed('left')}: 0px;
+    }
+    border-radius: 5px;
+
+    @include themify($themes) {
+      background-color: themed('colorBackground');
+      opacity: 0.8;
+    }
+  }
+
+  svg {
+    fill: $color-accent;
+    position: absolute;
+    animation: refresh 1s infinite linear;
+    z-index: 10;
+    width: 48px;
+    height: 48px;
+    top: calc(50% - 24px);
+    @include directify($directions) {
+      #{directed('left')}: calc(50% - 24px);
+    }
+  }
+
+  @keyframes refresh {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+}
+
+.project-summary__btn {
+  width: 100px;
+  @include directify($directions) {
+    #{directed('margin-left')}: 5px;
+  }
+}
+
+.project-summary__statistics-btn {
+  position: absolute;
+  top: 0;
+  @include directify($directions) {
+    #{directed('right')}: 15px;
+  }
+}
+
+.project-summary__card-title {
+  display: flex;
+  @include directify($directions) {
+    flex-direction: #{directed('row')};
+  }
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 990px) {
+
+  .project-summary__statistic {
+    width: 100%;
+  }
+}
