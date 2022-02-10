@@ -121,7 +121,7 @@
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react-hot-loader": "^4.7.1",
     "sass-loader": "^7.1.0",
     "webpack": "^4.29.6",
